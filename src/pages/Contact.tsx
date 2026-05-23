@@ -33,8 +33,8 @@ export const Contact = () => {
           <div className="mt-8 grid gap-4">
             {[
               { icon: MapPin, label: '88 Emerald Avenue, Jakarta Creative District' },
-              { icon: Phone, label: '+62 21 8840 2026' },
-              { icon: Mail, label: 'hello@brewora.coffee' }
+              { icon: Phone, label: '+62 85819134959' },
+              { icon: Mail, label: 'lintang2525@brewora.coffee' }
             ].map(({ icon: Icon, label }) => (
               <div key={label} className="flex items-center gap-4 rounded-2xl border border-zinc-200 bg-white p-4 shadow-premium dark:border-white/10 dark:bg-zinc-950">
                 <div className="grid h-12 w-12 place-items-center rounded-2xl bg-brew-100 text-brew-800 dark:bg-brew-900 dark:text-brew-100">
