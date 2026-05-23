@@ -1,0 +1,12 @@
+<svg width="680" height="180" viewBox="0 0 680 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brewora wordmark">
+  <rect x="18" y="20" width="140" height="140" rx="35" fill="#06291E"/>
+  <path d="M53 75C53 59.536 65.536 47 81 47H101C116.464 47 129 59.536 129 75V82H53V75Z" fill="#EFFCF5"/>
+  <path d="M53 80H129V101C129 119.778 113.778 135 95 135H87C68.2223 135 53 119.778 53 101V80Z" fill="#1FAF72"/>
+  <path d="M126 88H135C143.284 88 150 94.7157 150 103C150 111.284 143.284 118 135 118H124" stroke="#D9F8E8" stroke-width="9" stroke-linecap="round"/>
+  <path d="M75.5 98.5C75.5 86.827 81.6338 77.8745 90 72.5C98.3662 77.8745 104.5 86.827 104.5 98.5C104.5 110.173 98.3662 119.126 90 124.5C81.6338 119.126 75.5 110.173 75.5 98.5Z" fill="#06291E"/>
+  <path d="M90 72.5C92.7 84.8 92.9 108.5 90 124.5" stroke="#D9F8E8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M94 45C101.592 34.5474 113.246 30.5743 125 33.4C122.977 45.2365 114.382 54.2945 102 55.5C99.2 53 96.5 49.4 94 45Z" fill="#7EE1B5"/>
+  <path d="M98 45C104.5 45 114.3 41.6 122 33.8" stroke="#0E4935" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="188" y="110" fill="#06291E" font-family="Fraunces, Georgia, serif" font-size="76" font-weight="700" letter-spacing="0">Brewora</text>
+  <text x="194" y="138" fill="#128C5B" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0">MOOD-CRAFTED COFFEE</text>
+</svg>

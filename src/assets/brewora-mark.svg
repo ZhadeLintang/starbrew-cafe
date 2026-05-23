@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brewora logo mark">
+  <rect width="128" height="128" rx="32" fill="#06291E"/>
+  <path d="M31 50C31 36.7452 41.7452 26 55 26H73C86.2548 26 97 36.7452 97 50V58H31V50Z" fill="#EFFCF5"/>
+  <path d="M31 55H97V73C97 89.5685 83.5685 103 67 103H61C44.4315 103 31 89.5685 31 73V55Z" fill="#1FAF72"/>
+  <path d="M94 61H101C108.18 61 114 66.8203 114 74C114 81.1797 108.18 87 101 87H92" stroke="#D9F8E8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M50.5 69.5C50.5 58.7304 56.1635 50.4703 64 45.5C71.8365 50.4703 77.5 58.7304 77.5 69.5C77.5 80.2696 71.8365 88.5297 64 93.5C56.1635 88.5297 50.5 80.2696 50.5 69.5Z" fill="#06291E"/>
+  <path d="M64 45.5C66.6 56.4 66.7 78.5 64 93.5" stroke="#D9F8E8" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M66 24C72.8291 14.8226 83.2981 11.333 94 14C92.1251 24.8206 84.2882 33.0265 73 34C70.5 31.8 68.2 28.7 66 24Z" fill="#7EE1B5"/>
+  <path d="M69 24C75 24 84 21 91 15" stroke="#0E4935" stroke-width="3" stroke-linecap="round"/>
+</svg>
